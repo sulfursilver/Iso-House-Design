@@ -690,7 +690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Price: 0
-  StartingFunds: 20000
+  StartingFunds: 2000
   FundsMenu: {fileID: 646796196}
   InsufficientFundsColorBlink: {r: 0.7921569, g: 0.2784314, b: 0.2784314, a: 1}
   InsufficientFundsColorBlinkSpeed: 0.1
@@ -1902,7 +1902,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 20000
+  m_Text: 2000
 --- !u!222 &646796197
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2163,7 +2163,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5e51f6e21d9d29a44bbe00a18d603524, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.64
+  m_Volume: 0.24
   m_Pitch: 1
   Loop: 0
   Mute: 0
